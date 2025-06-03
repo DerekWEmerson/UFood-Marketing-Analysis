@@ -1,4 +1,4 @@
-# UFood-Marketing-Analysis
+# iFood-Marketing-Analysis
 
 A marketing case study for iFood, Brazil’s leading food delivery app. This project analyzes customer behavior and campaign effectiveness to propose strategies for improving engagement and revenue.
 
@@ -19,6 +19,6 @@ A marketing case study for iFood, Brazil’s leading food delivery app. This pro
 
 ## Notes
 - This was an open-ended analyst challenge focused on storytelling and segmentation
-- Feature definitions can be found in `ufood_marketing_Dictionary.png`
+- Feature definitions can be found in `ifood_marketing_Dictionary.png`
 - Raw data and PDF case prompt are included for context
 
